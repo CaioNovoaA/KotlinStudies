@@ -3,8 +3,6 @@ package model
 import Funcionario
 
 class Diretor(
-
-
     nome: String,
      cpf: String,
      salario: Double,
